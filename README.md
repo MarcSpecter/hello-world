@@ -4,3 +4,4 @@ Working on apps in the area of post-production workflow for audiovisual media. U
 Adding this line from within Master branch
 
 Added this line from local copy of master repo
+new line from terminal
